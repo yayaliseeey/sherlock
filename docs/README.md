@@ -108,7 +108,7 @@ $ echo '{"usernames":["user123"]}' | apify call -so netmilk/sherlock
 [{
   "username": "user123",
   "links": [
-    "https://www.1337x.to/user/user123/",
+    "https://www.1337x.to/user/cahyaadiputraa_/",
     ...
   ]
 }]
