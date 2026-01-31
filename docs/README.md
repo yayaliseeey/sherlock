@@ -104,12 +104,11 @@ optional arguments:
 You can run Sherlock in the cloud without installation using the [Sherlock Actor](https://apify.com/netmilk/sherlock?fpr=sherlock) on [Apify](https://apify.com?fpr=sherlock) free of charge.
 
 ``` bash
-$ echo '{"usernames":["user123"]}' | apify call -so netmilk/sherlock
+$ echo '{"usernames":["cahyaadiputraa_"]}' | apify call -so netmilk/sherlock
 [{
-  "username": "user123",
-  "links": [
-    "https://www.1337x.to/user/user123/",
-    ...
+  "username": "cahyaadiputraa_",
+  "links": [https://www.1337x.to/user/cahyaadiputraa_",
+    .,
   ]
 }]
 ```
